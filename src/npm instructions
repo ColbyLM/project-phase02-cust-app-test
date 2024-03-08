@@ -1,0 +1,11 @@
+When activating npm make sure you navigate to the following using cd:
+
+cd C:\ProjectWork\project-phase02-cust-app-starter
+
+active your npm by doing the following:
+
+npm run start
+
+It should be running under http://localhost:3000 
+
+If it is an additional host that is running it can be :3001, 3002, etc. 
